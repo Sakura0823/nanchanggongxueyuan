@@ -1,0 +1,2 @@
+[2022-5-25 2:35:52 ├F10: PM┤] 程序启动！ (info)
+[2022-5-25 2:35:52 ├F10: PM┤] SyntaxError: /home/sakura/GITFILES/bnu-auto-ncov-daily-report/config.json: Unexpected string in JSON at position 78 (error)
