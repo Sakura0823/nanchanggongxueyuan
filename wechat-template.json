@@ -1,0 +1,4 @@
+{
+  "title": "[${result}] ${date} 自动打卡记录 (BNU)",
+  "desp": "打卡结果：**${result}**。\n\n系统提示：「${message}」。\n\n打卡时间：${date} ${time}。\n\n打卡学号：${username}。\n\n最可爱的兔神大人\n\nPowered by Rabbit Wang"
+}
