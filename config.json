@@ -1,16 +1,8 @@
+
 {
-  "kale": {
-    "username": "2019212625",
-    "password": "wby7112164",
-    "time": "00:05",
-    "appToken": "",
-    "uid": "",
-    "sendKey": "SCT147531TRW4gVb1RQoh69ZkfnkUxF9SQ"
-  },
-  "kale2": {
-    "username": "",
-    "password": "",
-    "time": "08:15",
-    "sendKey": "SCT147531TRW4gVb1RQoh69ZkfnkUxF9SQ"
-  }
+  "username": "202111051061",
+  "password": "ssyy030824",
+  "wechat": true,
+  "wechat_sendkey": "SCT147533TrUSJbd09dntVdAjQkdSUuSe5"
 }
+
